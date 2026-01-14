@@ -95,5 +95,11 @@ If you use this code in your research, please cite:
 ```
 
 ## Acknowledgments
-This work was supported by the [MODE Collaboration](https://mode-collaboration.github.io/) and the Alliance for High Performance Computing in Rhineland-Palatinate (AHRP) via the Elwetritsch cluster at RPTU Kaiserslautern-Landau.
+This work was carried out within the MODE Collaboration, and we thank its members for valuable discussions.
+
+We acknowledge funding and computing support from the German National High Performance Computing (NHR) association (Center NHR South-West), the Alliance for High Performance Computing in Rhineland-Palatinate (AHRP) via the Elwetritsch cluster at RPTU Kaiserslautern-Landau, and the Artemisa computing infrastructure funded by the European Union ERDF and the Comunitat Valenciana.
+
+Pietro Vischia was supported by the Ramón y Cajal programme (Project No. RYC2021-033305-I) funded by MCIN/AEI/10.13039/501100011033 and by the European Union NextGenerationEU/PRTR.
+
+We also acknowledge technical support from the Instituto de Física Corpuscular (IFIC, CSIC–UV).
 
