@@ -86,11 +86,17 @@ python grad_plot.py
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{nguyen2025diffsurrogate,
-  title={Differentiable Surrogate for Detector Simulation and Design with Diffusion Models},
-  author={Nguyen, Xuan Tung and Chen, Long and Dorigo, Tommaso and Gauger, Nicolas R. and others},
-  year={2025},
-  journal={tbd},
+@misc{nguyen2025diffsurrogate,
+  title        = {Differentiable Surrogate for Detector Simulation and Design with Diffusion Models},
+  author       = {Nguyen, Xuan Tung and Chen, Long and Dorigo, Tommaso and Gauger, Nicolas R. and Vischia, Pietro and Nardi, Federico and Awais, Muhammad and Hanif, Hamza and Abbas, Shahzaib and Kapoor, Rukshak},
+  year         = {2025},
+  eprint       = {2601.07859},
+  archivePrefix= {arXiv},
+  primaryClass = {physics.ins-det},
+  doi          = {10.48550/arXiv.2601.07859},
+  note         = {arXiv preprint}
+}
+
 
 ```
 
