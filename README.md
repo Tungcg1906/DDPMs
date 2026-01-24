@@ -93,8 +93,7 @@ If you use this code in your research, please cite:
   eprint       = {2601.07859},
   archivePrefix= {arXiv},
   primaryClass = {physics.ins-det},
-  doi          = {10.48550/arXiv.2601.07859},
-  note         = {arXiv preprint}
+  doi          = {10.48550/arXiv.2601.07859}
 }
 
 
