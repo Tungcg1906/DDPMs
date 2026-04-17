@@ -3,8 +3,7 @@
 This repository contains the code for the paper:
 
 **"Differentiable Surrogate for Detector Simulation and Design with Diffusion Models"**  
-by Xuan Tung Nguyen et al., Machine Learning: Science and Technology (2026)
-DOI: https://doi.org/10.1088/2632-2153/ae5c56
+by Xuan Tung Nguyen *et al.*  *Machine Learning: Science and Technology*, **7**(2), 025061 (2026)  https://doi.org/10.1088/2632-2153/ae5c56
 
 
 The project provides a conditional denoising-diffusion probabilistic model (DDPM) to simulate electromagnetic calorimeter showers. The model can generate high-fidelity, differentiable shower distributions conditioned on detector geometry, material, and incoming particle energy.
@@ -92,8 +91,12 @@ If you use this code in your research, please cite:
   title   = {Differentiable Surrogate for Detector Simulation and Design with Diffusion Models},
   author  = {Nguyen, Xuan Tung and Chen, Long and Dorigo, Tommaso and Gauger, Nicolas R. and Vischia, Pietro and Nardi, Federico and Awais, Muhammad and Hanif, Hamza and Abbas, Shahzaib and Kapoor, Rukshak},
   journal = {Machine Learning: Science and Technology},
+  volume  = {7},
+  number  = {2},
+  pages   = {025061},
   year    = {2026},
-  doi     = {10.1088/2632-2153/ae5c56}
+  doi     = {10.1088/2632-2153/ae5c56},
+  publisher = {IOP Publishing}
 }
 
 
