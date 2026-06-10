@@ -10,7 +10,7 @@ The project provides a conditional denoising-diffusion probabilistic model (DDPM
 
 
 
-![Calo shower](https://github.com/X-T-Nguyen/Diffusion-Surrogate-Detector-Design/blob/main/images/compare_XY4_Z10_small.png)
+![Calo shower](https://github.com/X-T-Nguyen/Diffusion-Surrogate-Detector-Design/blob/main/images/compare_XY4_Z10_final.png)
 ![Energy pprofile](https://github.com/X-T-Nguyen/Diffusion-Surrogate-Detector-Design/blob/main/images/energy_profiles_PbF2_xy4_z10_small.png)
 
 
